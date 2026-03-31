@@ -1,0 +1,19 @@
+{
+  "name": "@premv7/smart-storage",
+  "version": "1.0.0",
+  "description": "A simple wrapper around localStorage that provides JSON parsing, expiry management, and a clean API for modern web apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premv7/smart-storage.git"
+  },
+  "author": "Prem Vaidhya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premv7/smart-storage/issues"
+  },
+  "homepage": "https://github.com/premv7/smart-storage#readme"
+}
