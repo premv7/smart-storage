@@ -1,6 +1,6 @@
 {
   "name": "@premv7/smart-storage",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A simple wrapper around localStorage that provides JSON parsing, expiry management, and a clean API for modern web apps.",
   "main": "index.js",
   "scripts": {
